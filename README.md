@@ -24,15 +24,13 @@
 
 
 <details open>
-    <summary>🤝 <b>Connect with me<b></summary>
-    
-    <p align = "center">
-    
-    [<img src ="https://img.shields.io/badge/Telegram-1ca0f1.svg?&style=for-the-badge&logo=Telegram&logoColor=white%22&link=https://t.me/TkdAlex">](https://t.me/stefanstax/)
-    [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stefanstaxbusiness@gmail.com"/>](mailto:stefanstaxbusiness@gmail.com)
-    [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefan-miljkovic/)
-    [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/developerstax/)
-    
-    </p>
-    
-    </details>
+    <summary>📊 <b>GitHub stats</b>: </summary>
+   
+   <br>
+   
+   <p align = "center">
+       <img src="https://res.cloudinary.com/dnqicdh71/image/upload/v1622378586/stax_image_l49neq.jpg" height="250" />
+       <img src="https://github-readme-stats.vercel.app/api?username=staxstefan&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="staxstefan">
+   </p>
+   
+   </design>
