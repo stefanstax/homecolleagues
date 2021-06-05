@@ -5,10 +5,8 @@ import App from "./containers/App"
 import reportWebVitals from "./reportWebVitals";
 import "tachyons";
 
-import {robots} from "./robots"
 
-
-ReactDOM.render(<App robots={robots} />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
