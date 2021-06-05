@@ -7,7 +7,6 @@ ____
     <summary>About Project</summary>
     <p>Office Friends was primarily built with the idea to help entry level react developers dive into clean and understandable code</p>
     <p>Office Friends are cool place to practice your fetch methods, reusable components, new way of writing css, practicing different apis etc</p>
-    
     <p>If you have any question please do use section below to reach out or freely open an <A href="https://github.com/stefanstax/officefriends/issues/new" target="_blank">Issue</a> on the project.</p>
 </details>
 
