@@ -15,7 +15,7 @@ ____
         <li>⚙️ | Test project locally in native browser</li>
         <li>⚙️ | Practise the code, improve, elevate</li>
         <li>🐛 | Report an issue if you come across, or post an improvement if you think something can be done better.</li>
-        <li><img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /> | Join our study community: <a href="https://discord.gg/studylions" target="_blank">Study Lions Discord Community</li>
+        <li><img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /> | Join our study community: <a href="https://discord.gg/studylions" target="_blank">Study Lions Discord Community</a></li>
     </ul>
         
 </details>
