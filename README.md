@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+<h1>Office Friends | Stefan Stax</h1>
+<h4>React Application | Ideal for entry react developers</h5>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<details open>
+    <summary>React Application was built using: </summary>
 
-## Available Scripts
+    ### Libraries/Frameworks:
+    
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white")
+![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
 
-In the project directory, you can run:
+</details>
 
-### `npm start`
+<details open>
+    <summary>About Project</summary>
+    <p>Office Friends was primarily built with the idea to help entry level react developers dive into clean and understandable code</p>
+    <p>Office Friends are cool place to practice your fetch methods, reusable components, new way of writing css, practicing different apis etc</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    <h6>If you have any question please do use section below to reach out or freely open an <a href="https://github.com/stefanstax/officefriends/issues/new" target="_blank">Issue</a> on the project. </h6>
+</details>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<details open>
+    <summary>🤝 <b>Connect with me<b></summary>
+    
+    <p align = "center">
+    
+    [<img src ="https://img.shields.io/badge/Telegram-1ca0f1.svg?&style=for-the-badge&logo=Telegram&logoColor=white%22&link=https://t.me/TkdAlex">](https://t.me/stefanstax/)
+    [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stefanstaxbusiness@gmail.com"/>](mailto:stefanstaxbusiness@gmail.com)
+    [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefan-miljkovic/)
+    [<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/developerstax/)
+    
+    </p>
+    
+    </details>
