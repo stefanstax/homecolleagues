@@ -16,7 +16,7 @@ const CardList = ({ robots }) => {
     );
   });
 
-  return <div className="flex flex-wrap align-center justify-center">{robotslist}</div>;
+  return <div className="flex flex-wrap justify-center align-center">{robotslist}</div>;
 };
 
 export default CardList;
