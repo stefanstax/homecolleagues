@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/officefriends/static/css/main.67fa2307.chunk.css",
-    "main.js": "/officefriends/static/js/main.2a11351a.chunk.js",
-    "main.js.map": "/officefriends/static/js/main.2a11351a.chunk.js.map",
-    "runtime-main.js": "/officefriends/static/js/runtime-main.b9de166c.js",
-    "runtime-main.js.map": "/officefriends/static/js/runtime-main.b9de166c.js.map",
-    "static/js/2.f9708005.chunk.js": "/officefriends/static/js/2.f9708005.chunk.js",
-    "static/js/2.f9708005.chunk.js.map": "/officefriends/static/js/2.f9708005.chunk.js.map",
-    "static/js/3.651102bf.chunk.js": "/officefriends/static/js/3.651102bf.chunk.js",
-    "static/js/3.651102bf.chunk.js.map": "/officefriends/static/js/3.651102bf.chunk.js.map",
-    "index.html": "/officefriends/index.html",
-    "static/css/main.67fa2307.chunk.css.map": "/officefriends/static/css/main.67fa2307.chunk.css.map",
-    "static/js/2.f9708005.chunk.js.LICENSE.txt": "/officefriends/static/js/2.f9708005.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/officefriends/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/homecolleagues/static/css/main.1cf125e9.chunk.css",
+    "main.js": "/homecolleagues/static/js/main.658393fc.chunk.js",
+    "main.js.map": "/homecolleagues/static/js/main.658393fc.chunk.js.map",
+    "runtime-main.js": "/homecolleagues/static/js/runtime-main.4167779a.js",
+    "runtime-main.js.map": "/homecolleagues/static/js/runtime-main.4167779a.js.map",
+    "static/js/2.17282d3b.chunk.js": "/homecolleagues/static/js/2.17282d3b.chunk.js",
+    "static/js/2.17282d3b.chunk.js.map": "/homecolleagues/static/js/2.17282d3b.chunk.js.map",
+    "static/js/3.651102bf.chunk.js": "/homecolleagues/static/js/3.651102bf.chunk.js",
+    "static/js/3.651102bf.chunk.js.map": "/homecolleagues/static/js/3.651102bf.chunk.js.map",
+    "index.html": "/homecolleagues/index.html",
+    "static/css/main.1cf125e9.chunk.css.map": "/homecolleagues/static/css/main.1cf125e9.chunk.css.map",
+    "static/js/2.17282d3b.chunk.js.LICENSE.txt": "/homecolleagues/static/js/2.17282d3b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/homecolleagues/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9de166c.js",
-    "static/js/2.f9708005.chunk.js",
-    "static/css/main.67fa2307.chunk.css",
-    "static/js/main.2a11351a.chunk.js"
+    "static/js/runtime-main.4167779a.js",
+    "static/js/2.17282d3b.chunk.js",
+    "static/css/main.1cf125e9.chunk.css",
+    "static/js/main.658393fc.chunk.js"
   ]
 }
