@@ -51,8 +51,8 @@ class App extends Component {
           </ErrorBoundry>
         </Scroll>
         <div className="w-full mt-5 flex flex-wrap justify-center items-center py-7 bg-gray-900">   
-          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code</p><a href="https://stefanstax.github.io/homecolleagues/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
-          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code: (With Hooks)</p><a href="https://stefanstax.github.io/homecolleagues-whooks/" target="_blank" rel=" noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a></div>
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code</p><a href="https://github.com/stefanstax/homecolleagues/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code: (With Hooks)</p><a href="https://github.com/stefanstax/homecolleagues-whooks/" target="_blank" rel=" noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a></div>
         </div>
       </div>
       </>
