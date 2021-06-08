@@ -43,7 +43,7 @@ class App extends Component {
     ) : (
       <>
       <div className="flex flex-col bg-indigo-900 h-screen">
-        <h1 className="text-4xl text-white text-thin mx-auto mt-5 mb-0">Office Colleagues</h1>
+        <h1 className="text-4xl sm:text-2xl text-white text-center text-thin mx-auto mt-5 mb-0">Home Colleagues</h1>
         <SearchBox searchChange={this.onSearchChange} />
         <Scroll>
           <ErrorBoundry>
@@ -51,8 +51,8 @@ class App extends Component {
           </ErrorBoundry>
         </Scroll>
         <div className="w-full mt-5 flex flex-wrap justify-center items-center py-7 bg-gray-900">   
-          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code</p><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></div>
-          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code: (With Hooks)</p> <img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff"/> </div>
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code</p><a href="https://stefanstax.github.io/homecolleagues/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff" /></a></div>
+          <div className="w-11/12 lg:w-80 md:w-80 flex items-center justify-between mx-2 my-3 md:my-0 font-medium p-3 rounded-md text-white shadow-2xl" style={{backgroundColor: "rgb(0, 74, 173)" }}><p>View Code: (With Hooks)</p><a href="https://stefanstax.github.io/homecolleagues-whooks/" target="_blank" rel=" noreferrer"><img src="https://img.shields.io/badge/-GITHUB-303030.svg?style=for-the-badge&logo=github&logoColor=ffffff"/></a></div>
         </div>
       </div>
       </>
