@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/homecolleagues/static/css/main.1cf125e9.chunk.css",
-    "main.js": "/homecolleagues/static/js/main.658393fc.chunk.js",
-    "main.js.map": "/homecolleagues/static/js/main.658393fc.chunk.js.map",
+    "main.css": "/homecolleagues/static/css/main.833f597e.chunk.css",
+    "main.js": "/homecolleagues/static/js/main.7d29d8b7.chunk.js",
+    "main.js.map": "/homecolleagues/static/js/main.7d29d8b7.chunk.js.map",
     "runtime-main.js": "/homecolleagues/static/js/runtime-main.4167779a.js",
     "runtime-main.js.map": "/homecolleagues/static/js/runtime-main.4167779a.js.map",
     "static/js/2.17282d3b.chunk.js": "/homecolleagues/static/js/2.17282d3b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.651102bf.chunk.js": "/homecolleagues/static/js/3.651102bf.chunk.js",
     "static/js/3.651102bf.chunk.js.map": "/homecolleagues/static/js/3.651102bf.chunk.js.map",
     "index.html": "/homecolleagues/index.html",
-    "static/css/main.1cf125e9.chunk.css.map": "/homecolleagues/static/css/main.1cf125e9.chunk.css.map",
+    "static/css/main.833f597e.chunk.css.map": "/homecolleagues/static/css/main.833f597e.chunk.css.map",
     "static/js/2.17282d3b.chunk.js.LICENSE.txt": "/homecolleagues/static/js/2.17282d3b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/homecolleagues/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4167779a.js",
     "static/js/2.17282d3b.chunk.js",
-    "static/css/main.1cf125e9.chunk.css",
-    "static/js/main.658393fc.chunk.js"
+    "static/css/main.833f597e.chunk.css",
+    "static/js/main.7d29d8b7.chunk.js"
   ]
 }
